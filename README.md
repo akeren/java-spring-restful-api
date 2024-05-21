@@ -1,0 +1,3 @@
+# RSETful API Design - Java Spring
+
+This repository contains a demonstration of building API using Java Spring and following a clean architecture as prescribed by [Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). The result of this work is for the purpose of learning and reflection on some of the fundamental concepts of Object-oriented programming and its application alongside software design patterns. 
